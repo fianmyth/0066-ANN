@@ -1,2 +1,2 @@
 Universitas Semarang
-stash@{0}: WIP on master: ebd514c branch baru 
+stash@{0}: WIP on master: ebd514c branch baru
